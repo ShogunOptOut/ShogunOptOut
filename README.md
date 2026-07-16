@@ -13,7 +13,7 @@ status      retraining as a Software Developer (2025 - 2027)
 
 currently_learning = [SQL, Python (Tkinter, pandas), JavaScript, React with Next.js]
 future_goals = [Graduation as Software Developer, Gain the skills of a Full-Stack-Dev]
-hobbies = [3D Modelling, Fitness, Mindset]
+hobbies = [3D Modelling, Drums, MTB]
 
 
 .interests {
