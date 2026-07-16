@@ -35,7 +35,7 @@ hobbies = [3D Modelling, Drums, MTB]
 <div align = "center">
 
 # About Me:
-I`m currently working on Python projects for my retraining as a Software Developer.
+I`m currently working on projects for my retraining as a Software Developer.
 <br><br>
 
 ## 🌐 Socials:
