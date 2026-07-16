@@ -11,7 +11,7 @@ status      retraining as a Software Developer (2025 - 2027)
 # Umschüler | Fachinformatiker Anwendungsentwicklung
 
 
-currently_learning = [SQL, Python (Tkinter, pandas), JavaScript, React with Node.js]
+currently_learning = [SQL, Python (Tkinter, pandas), JavaScript, React with Next.js]
 future_goals = [Graduation as Software Developer, Gain the skills of a Full-Stack-Dev]
 hobbies = [3D Modelling, Fitness, Mindset]
 
@@ -39,7 +39,7 @@ I`m currently working on Python projects for my retraining as a Software Develop
 <br><br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5Z78nbwecQ) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Own_Consequence_4496) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Bytecula) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvyn-m-252b33366/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvyn-m-252b33366/)
 <br><br>
 
 ## GitHub Stats:
@@ -61,20 +61,19 @@ I`m currently working on Python projects for my retraining as a Software Develop
 
 </div>
 
-## Tech Stack
+## Beginner
 ```text
 Languages     : Python | JavaScript | SQL
 Web           : HTML | CSS | REST
-Frameworks    : Next.js
-Tools         : Git | GitHub | IntelliJ | VS Code
-OS            : Windows
+Frameworks    : Next.js | Django
+Tools         : GitHub | VS Code
+OS            : Windows | Linux | Mac
 ```
 
-## Learning
+## Next Level
 ```text
-Languages     : Java | PHP | C#
-Frameworks    : Spring (Basic) | Node.js (Basic)
-OS            : Linux | Mac
+Languages     : TypeScript | PHP | Java | C#
+Frameworks    : SNode.js (Basic)
 ```
 
 <br>
