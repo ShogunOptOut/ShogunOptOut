@@ -4,8 +4,6 @@
 
 </div>
 
-  **[Mein Portfolio](https://shogunoptout.github.io/webPortfolio/html/)**
-
 ```yaml
 name        Marvyn
 location    FFM, Germany
